@@ -1,1 +1,17 @@
-{"applinks":{"apps":[],"details":[{"appID":"GBRG384FRA.com.alp.ch","paths":["NOT /_/*","/*"]},{"appID":"GBRG384FRA.com.alp.ch.dev","paths":["NOT /_/*","/*"]}]}}
+{
+  "applinks": {
+    "apps":[],
+    "details": [
+      {
+        "appID": ["GBRG384FRA.com.alp.ch", "GBRG384FRA.com.alp.ch.dev"],
+        "paths": ["NOT /_/*","/*"],
+        "components": [
+          { "/": "/*" }
+        ]
+      }
+    ],
+    "webcredentials": {
+      "apps": ["GBRG384FRA.com.alp.ch", "GBRG384FRA.com.alp.ch.dev"]
+    }
+  }
+}
