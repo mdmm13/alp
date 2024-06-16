@@ -3,7 +3,7 @@
     "apps":[],
     "details": [
       {
-        "appID": ["GBRG384FRA.com.alp.ch", "GBRG384FRA.com.alp.ch.dev"],
+        "appIDs": ["GBRG384FRA.com.alp.ch", "GBRG384FRA.com.alp.ch.dev"],
         "paths": ["NOT /_/*","/*"],
         "components": [
           { "/": "/*" }
