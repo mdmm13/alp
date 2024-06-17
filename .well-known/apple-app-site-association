@@ -1,12 +1,19 @@
 {
   "applinks": {
-    "apps":[],
+    "apps": [],
     "details": [
       {
-        "appIDs": ["GBRG384FRA.com.alp.ch", "GBRG384FRA.com.alp.ch.dev"],
-        "paths": ["NOT /_/*","/*"],
-        "components": [
-          { "/": "/*" }
+        "appID": "GBRG384FRA.com.alp.ch",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "GBRG384FRA.com.alp.ch.dev",
+        "paths": [
+          "NOT /_/*",
+          "/*"
         ]
       }
     ],
